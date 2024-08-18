@@ -1,0 +1,7 @@
+/myvenv
+/config.py
+/bin
+/obj
+*.pdb
+*.exe
+.idea
